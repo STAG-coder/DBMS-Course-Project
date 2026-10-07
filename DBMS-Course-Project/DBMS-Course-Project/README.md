@@ -2,10 +2,10 @@
 
 ## Student
 - Name: Saranjyot Singh Jassal
-- Roll Number: **[ENTER YOUR ROLL NUMBER]**
+- Roll Number: 25WU0102245
 - Course: DBMS
 - Project Title: Smart Parking Lot Allocation and Billing System
-- Faculty: **[ENTER FACULTY NAME]**
+- Faculty: Dr. Kiran Mayee Adavala
 - Academic Year: 2026
 
 ## One-line description
