@@ -1,0 +1,1 @@
+Replace the five placeholder PNG files with screenshots captured from the actual running UI before submission.
